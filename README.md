@@ -1,6 +1,6 @@
 **👋 Hi there!**
 
-🎓 I'm a 24 year old PhD student at Akershus University Hospital in the AIM group. I have a background in numerical mathematics.
+🎓 I'm a 25 year old PhD student at Akershus University Hospital in the AIM group. I have a background in numerical mathematics.
 
 
 🤖 I work in AI, mostly using <img src="https://docs.jax.dev/en/latest/_static/jax_logo_250px.png" width="15">Jax with <img src="https://flax.readthedocs.io/en/stable/_static/flax.png" width="15">Flax as my deep learning framework.
